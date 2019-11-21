@@ -1,5 +1,6 @@
 [Free Code Camp: Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 ----------------------------
+![Actions](https://github.com/benweese/FCC-Technical-Document/workflows/Jekyll%20site%20CI/badge.svg) ![GitHub](https://img.shields.io/github/license/benweese/FCC-Technical-Document.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/benweese/FCC-Technical-Document.svg)
 
 This is Free Code Camp's Build a Technical Documentation page. This si for automation but mostly filled with filler latin so it can meet the bare minimum requirements of the user stories.
 
